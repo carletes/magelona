@@ -253,7 +253,7 @@ Gewalt geschah, nach dem doch der Herr Heinrich ein be-*
 *rühmter Renner war. Und traf der Peter mit dem Königlichen,
 daß Pferd und Mann sich nicht enthalten mochten,
 und auf einem Haufen lagen. Also, daß sich alle Umsteher
-und Zuseher solches Teffens[** P2: Treffens?] täten verwundern.
+und Zuseher solches Treffens täten verwundern.
 
 Als solches der König gesehen, lobet und pries er den Ritter
 mit den silbern Schlüsseln; und hätte gerne erfahren, wer
@@ -311,8 +311,7 @@ Neapel aus Ansuchen seiner lieben Tochter, der Schönen
 Magelona. Die bat ihn sehr derwegen aus Liebe, die sie zu
 dem Ritter mit den silbern Schlüsseln trug, doch verborgen.
 -----File: 013.png---\mcbax\Edde\VerenaM\miplise\Frau Sma\-----------------
-
-[** F2: not sure there's a paragraph break]Wann so der König des Ritters mit den silbern Schlüsseln
+Wann so der König des Ritters mit den silbern Schlüsseln
 ansichtig ward, gefiel er ihm allenthalben, sonderlich von
 wegen seiner Tugend, Adels und Höflichkeit. Und sprach zu
 Weilen wider sich selber: »Fürwahr, dieser Ritter wird nicht
@@ -534,7 +533,7 @@ bald sie das Gebet vollbracht, erbot ihr der Ritter Ehre;
 wann er kennet sie wohl und hätt sie vormals gesehen bei
 der Schönen Magelona. Da fing sie zu ihm an und sprach:
 -----File: 020.png---\mcbax\Edde\hael\VerenaM\Frau Sma\--------------------
-[** F2: don't think there's a paragraph break here]»Herr Ritter, ich verwunder mich euer nicht ein wenig, daß ihr
+»Herr Ritter, ich verwunder mich euer nicht ein wenig, daß ihr
 euern Stand und Wesen also heimlich haltet und verberget.
 Ich weiß wohl, daß mein Herr, der König, und seiner Gnaden
 Gemahel, und in Sonderheit die Schön Magelona eine
@@ -953,7 +952,7 @@ Ritter sehr freundlich an.
 
 Der edel Ritter verwandelt auch nicht weniger seine Farbe,
 da er vor sich sah die aller Schönest und Liebste seines Herzens.
-Er wußte auch nicht, wie er an sollte fahen[** ?; p3: old for fangen, see "empfahen"] zu reden; wann
+Er wußte auch nicht, wie er an sollte fahen zu reden; wann
 er wußte nicht, ob er in Lüften oder auf Erdreich war; als
 dann die Liebe ihren Untertanen pfleget zu beweisen und tun.
 Jedoch kniet er nieder ganz schamhaftig vor sie und sprach:
@@ -1702,7 +1701,7 @@ Da kam der Peter wieder zu sich selber als ein rechter christlicher
 Mensch, und rief an GOTT den Allmächtigen und
 sprach wider sich selber also: »Ach, böse bin ich! Warum will
 ich mich selbst töten, die Weil ich dem Tod also nahe bin,
-der da zu mir laufet, mich zu fahen[** fahen P2: correct!]! Ich darf ihn nicht
+der da zu mir laufet, mich zu fahen! Ich darf ihn nicht
 suchen. O allmächtiger, ewiger, gütiger GOTT, ich bitte
 Dich, Du wollest mir vergeben alle meine Sünde, und was
 ich je wider Dich gehandelt habe. Wann wider Dich, o allmächtiger
@@ -2092,7 +2091,7 @@ baß möchte unbeflecket behalten. Und verhoffet, daß sie da
 -----File: 069.png---\mcbax\Edde\hael\miplise\Frau Sma\--------------------
 von ihrem aller liebsten Peter eher etwas möchte erfahren, dann
 anders wo. Und tät also fragen, ob in dem Lande wäre ein
-Ort, da man andächtiglich möchte Gott[**elsewhere it's in all caps!] dienen. Die gute
+Ort, da man andächtiglich möchte GOTT dienen. Die gute
 Frau, ihre Wirtin, saget, daß nahe wäre ein Insel des heidnischen
 Ports, dar alle Schiff und Kaufmannschaft hin kämen
 aus allen Landen. Darhin kämen auch viel armer Menschen,
@@ -2420,7 +2419,7 @@ eins unter einander, die Lägel zu geben in das Spital Sankt
 Peters; wann sie vermeinten, sie könnten es nicht baß anlegen.
 Da ging der Patron zu der Spitalmeisterin und saget
 ihr, daß der Herr der Lägel wäre verloren worden, darum er
-sie wölle geben in das Spital, sie sölle Gott für seine Seele
+sie wölle geben in das Spital, sie sölle GOTT für seine Seele
 bitten.
 
 
@@ -2428,7 +2427,7 @@ bitten.
 
 Wie die Spitalmeisterin einen großen Schatz fand
 von Gold, Silber und Kleinoden in den Lägeln
-des Peter, die um Gottes willen in das Spital gegeben
+des Peter, die um GOTTes willen in das Spital gegeben
 wurden.
 
 
@@ -2448,7 +2447,7 @@ sie einen großen Schatz.
 
 Als bald ließ sie Maurer und ander Werkleut berufen und
 fing an, die Kirchen größer zu machen; und machet also ein
-schöne Kirchen und ein Spital, darinne der Dienst Gottes[**inconsistent - elsewhere written in all caps]
+schöne Kirchen und ein Spital, darinne der Dienst GOTTes
 fleißig bestellet ward. Und kam das Geschrei so weit, daß
 viel Volkes dar kam. Und brachten groß Almosen und Opfer,
 und verwunderten sich darob, daß die Spitalerin also kostlich
@@ -3007,7 +3006,7 @@ aufgezeichnet[A].
 Ob der Geschichte in der vorliegenden Gestalt eine langsame
 Entwicklung voraus ging, ist unbekannt. Dem ersten Lyoner
 Druck von 1480 gehen nur einige, wenige Jahre ältere Handschriften
-vorauf[**typo for voraus?]. Die Geschichte datiert sich selbst aus dem
+vorauf. Die Geschichte datiert sich selbst aus dem
 Jahr 1453; und aus demselben Satz des Eingangs glaubt
 man, auf eine ältere, wohl provenzalische Form zurückschließen
 zu dürfen.

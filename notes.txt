@@ -1,0 +1,19 @@
+* 011.png: Teffens -> Treffens
+
+* 013.png: Not starting new paragraph.
+
+* 020.png: Not starting new paragraph.
+
+* 033.png: Kept "fahen"
+
+* 056.png: Kept "fahen"
+
+* 069.png: Gott -> GOTT
+
+* 079.png: Gott -> GOTT
+
+* 079.png: Gottes -> GOTTes
+
+* 080.png: Gott -> GOTT
+
+* 099.png: Kept "vorauf"
