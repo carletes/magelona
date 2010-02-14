@@ -1,5 +1,6 @@
 
 -----File: 001.png---\mcbax\c_s\phil1980\miplise\Frau Sma\-----------------
+/*
 Die
 
 Schön Magelona
@@ -9,6 +10,7 @@ den silbern Schlüsseln und von
 der Schönen Magelona
 
 gar lustig zu lesen
+*/
 
 [Illustration]
 
