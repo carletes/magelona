@@ -2516,6 +2516,9 @@ am Nordrand des Mittelmeers in Südfrankreich eingedrungen und dann
 nordwärts gewandert. Noch um die Mitte des vorigen Jahrhunderts wurde es
 als Märchen aus dem Volksmund aufgezeichnet[A].
 
+  Footnote A: Cosquin, Contes populaires de la Lorraine, Paris s. a.,
+  Nr. 40.
+
 Ob der Geschichte in der vorliegenden Gestalt eine langsame Entwicklung
 voraus ging, ist unbekannt. Dem ersten Lyoner Druck von 1480 gehen nur
 einige, wenige Jahre ältere Handschriften vorauf. Die Geschichte datiert
@@ -2565,4 +2568,3 @@ der Magelona sind mit Holzschnitten aus anderen Büchern illustriert.
 und Härtel in Leipzig</g>
 */
 
-[Footnote A: Cosquin, <f>Contes populaires de la Lorraine</f>, Paris <f>s. a.</f>, Nr. 40.]
