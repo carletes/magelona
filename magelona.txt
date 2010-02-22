@@ -2033,7 +2033,7 @@ Seele bitten.
 
 
 Wie die Spitalmeisterin einen großen Schatz fand von Gold, Silber und
-Kleinoden in den Lägeln des Peter, die um Gottes willen in das Spital
+Kleinoden in den Lägeln des Peter, die um GOTTes willen in das Spital
 gegeben wurden.
 
                              [Illustration]
@@ -2588,4 +2588,7 @@ der Magelona sind mit Holzschnitten aus anderen Büchern illustriert.
 
     worden, darum er sie wölle geben in das Spital, sie sölle Gott
     worden, darum er sie wölle geben in das Spital, sie sölle GOTT
+
+    Kleinoden in den Lägeln des Peter, die um Gottes willen in das Spital
+    Kleinoden in den Lägeln des Peter, die um GOTTes willen in das Spital
   ]
