@@ -1,19 +1,37 @@
-* 011.png: Teffens -> Treffens
+HTML version
+============
 
-* 013.png: Not starting new paragraph.
+Passes W3C's HTML and CSS validation tests.
 
-* 020.png: Not starting new paragraph.
 
-* 033.png: Kept "fahen"
+For the PPVer
+=============
 
-* 056.png: Kept "fahen"
+There are several occurences of the expression "um Gottes willen", but just a
+single one of "um Gottes Willen". On the PM's suggestion, I've left the single
+capitalised occurence untouched.
 
-* 069.png: Gott -> GOTT
+There are several occurences of the word "Crappana", and a single one of
+"Crapona". I've left it untouched.
 
-* 079.png: Gott -> GOTT
+Proofers' comments have been handled in the following way:
 
-* 079.png: Gottes -> GOTTes
+	* 011.png: Teffens -> Treffens
 
-* 080.png: Gott -> GOTT
+	* 013.png: Not starting new paragraph.
 
-* 099.png: Kept "vorauf"
+	* 020.png: Not starting new paragraph.
+
+	* 033.png: Kept "fahen"
+
+	* 056.png: Kept "fahen"
+
+	* 069.png: Gott -> GOTT
+
+	* 079.png: Gott -> GOTT
+
+	* 079.png: Gottes -> GOTTes
+
+	* 080.png: Gott -> GOTT
+
+	* 099.png: Kept "vorauf"
