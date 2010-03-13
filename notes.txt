@@ -1,3 +1,15 @@
+Text versions
+=============
+
+Latin-1 and UTF-8 versions are provided.
+
+Non-breakable spaces are used.
+
+The UTF-version uses German-style quotation marks. Unitame handles the
+UTF-version just fine, apart from transforming German-style quotes to
+English-style.
+
+
 HTML version
 ============
 
