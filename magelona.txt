@@ -1,6 +1,7 @@
   [ Anmerkungen zur Transkription:
 
     Im Original gesperrt gedruckter Text wurde mit = markiert.
+    Im Original nicht in Fraktur gedruckter Text wurde mit _ markiert.
 
     Schreibweise und Interpunktion des Originaltextes wurden übernommen;
     lediglich offensichtliche Druckfehler wurden korrigiert. Eine Liste
@@ -2522,7 +2523,7 @@ am Nordrand des Mittelmeers in Südfrankreich eingedrungen und dann
 nordwärts gewandert. Noch um die Mitte des vorigen Jahrhunderts wurde es
 als Märchen aus dem Volksmund aufgezeichnet[A].
 
-  Fußnote A: Cosquin, Contes populaires de la Lorraine, Paris s. a.,
+  Fußnote A: Cosquin, _Contes populaires de la Lorraine_, Paris s. a.,
   Nr. 40.
 
 Ob der Geschichte in der vorliegenden Gestalt eine langsame Entwicklung
